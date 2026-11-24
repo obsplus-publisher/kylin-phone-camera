@@ -13,7 +13,7 @@
 ![OBS](https://img.shields.io/badge/OBS%20%7C%20%E7%9B%B4%E6%92%AD%E4%BC%B4%E4%BE%A3%20%7C%20%E4%BC%9A%E8%AE%AE-%E5%8D%B3%E9%80%89%E5%8D%B3%E7%94%A8-1f2328?style=flat-square)
 
 [下载安装包](https://download2.obsworks.com/installer/%E9%BA%92%E9%BA%9F%E9%AB%98%E6%B8%85%E6%89%8B%E6%9C%BA%E6%91%84%E5%83%8F%E5%A4%B4%E5%AE%89%E8%A3%85%E5%8C%85.exe) · [产品主页](https://www.obsworks.com/phone/) · [使用教程](https://vmmbvgdeeg.feishu.cn/wiki/AxC0wIjcriOugnkAovvczL6Bnlh) · [常见问题](#常见问题)
-<img width="600" height="600" alt="banner" src="https://github.com/user-attachments/assets/e2285fc8-0e2d-48a3-8616-92fa86fb0b80" />
+<img width="560" height="560" alt="banner" src="https://github.com/user-attachments/assets/e2285fc8-0e2d-48a3-8616-92fa86fb0b80" />
 
 </div>
 
