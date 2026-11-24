@@ -1,6 +1,6 @@
 <div align="center">
 
-# 麒麟高清手机摄像头/>Kylin Phone Camera
+# 麒麟高清手机摄像头/ Kylin Phone Camera
 
 **手机，就是你的高清摄像头。**
 
