@@ -46,7 +46,7 @@
 下载安装包，装完打开「麒麟高清手机摄像头」，点「开始接收」，界面会出现二维码。
 
 **2. 手机扫码连接**
-<img width="855" height="790" alt="扫码连接" src="https://github.com/user-attachments/assets/14e901d2-7f02-464d-9ddf-7b40ae237938" />
+<img width="855" height="790" alt="扫码连接" src="https://github.com/user-attachments/assets/400a055f-7268-48c9-9e0e-8630eb9950f7" />
 
 用手机微信、系统相机或任意扫码工具扫这个二维码，浏览器里允许摄像头权限，画面就过来了。
 
