@@ -53,7 +53,7 @@
 > 不需要在手机上装 App，也不需要手机和电脑登同一个账号——只要在同一个局域网里。
 
 **3. 在 OBS / 直播伴侣 / 会议软件里使用**
-<img width="821" height="704" alt="obs添加摄像头" src="https://github.com/user-attachments/assets/df364372-1788-420b-b816-4f4470917ed4" />
+<img width="821" height="704" alt="obs添加摄像头" src="https://github.com/user-attachments/assets/cb3434f0-4517-4a87-99af-4c989efb54c6" />
 
 添加「视频采集设备」，设备列表里选「麒麟高清手机摄像头」，手机画面直接作为摄像头输入。
 
